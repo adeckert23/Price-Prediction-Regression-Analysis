@@ -10,5 +10,6 @@ https://www.kaggle.com/c/bluebook-for-bulldozers
 [Model EDA, Summary and Analysis](main.ipynb) - Jupyter notebook with analysis of the different models tested.
 
 
-We used the root mean squared log error to judge the model accuracy/score
+We used the root mean squared log error to judge the model accuracy/score.
+
 I Got a model score of: 0.412088605438338
