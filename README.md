@@ -12,4 +12,4 @@ https://www.kaggle.com/c/bluebook-for-bulldozers
 
 We used the root mean squared log error to judge the model accuracy/score.
 
-I Got a model score of: 0.412088605438338
+I Got a model score of: 0.412088605438338, the lowest/best in class
